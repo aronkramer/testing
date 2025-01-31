@@ -1,1 +1,1 @@
-print('just a simple test')
+print('this is so cool, i love programming')
