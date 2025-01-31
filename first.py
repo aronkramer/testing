@@ -1,1 +1,1 @@
-print('this is so cool, i love programming')
+print('10-4')
